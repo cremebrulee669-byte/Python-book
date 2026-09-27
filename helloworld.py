@@ -1,1 +1,3 @@
-print('Hello World '*11)
+import stdio
+
+stdio.writeln('Hello World '*10)
