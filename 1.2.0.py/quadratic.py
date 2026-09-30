@@ -13,5 +13,5 @@ c = float(input('Enter the value of c: '))
 
 discriminant = b*b - 4.0*c
 d = math.sqrt(discriminant)
-stdio.writeln((-b + d) / 2.0)
+stdio.writeln((-b - d) / 2.0)
 stdio.writeln((-b - d) / 2.0)
